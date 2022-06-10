@@ -1,0 +1,8 @@
+node_modules/
+samples/
+.idea/
+.DS_Store
+.csscomb.json
+gulpfile.js
+package-lock.json
+package.json
