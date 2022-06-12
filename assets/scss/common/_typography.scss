@@ -11,7 +11,7 @@ html {
     font-family: $font-main;
     font-size: $font-size;
     color: $color-gray;
-    overflow-y: scroll;
+    // overflow-y: scroll;
 }
 
 a {
@@ -56,11 +56,4 @@ h2 {
     @include md {
         font-size: 1.5rem;
     }
-}
-
-h3 {
-    font-family: $font-header;
-    font-size: 1.125rem;
-    color: $color-gray;
-    letter-spacing: 0.05em;
 }

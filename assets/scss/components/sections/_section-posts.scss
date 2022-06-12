@@ -97,6 +97,10 @@
     }
 
     &__title {
+        font-family: $font-header;
+        font-size: 1.125rem;
+        color: $color-gray;
+        letter-spacing: 0.05em;
         transition: color 0.5s;
     }
 
